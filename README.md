@@ -37,7 +37,8 @@ static-site-T5/
 ---
 
 ## 📸 Preview
-![Responsive Website Preview](images\mobile-friendly-T4preview.png)
+
+![Website Preview](images/mobile-friendly-T4preview.png)
 
 ---
 
